@@ -2,6 +2,7 @@
 
 Problem statement:
 (50 = 25+25 points) Let L be a set of n lines in R2 .
+
 	(a) Compute the arrangement A(L) using incremental construction.
 	Input: A set L of n lines in general position (no two parallel, no three concurrent).
 	Output: The full arrangement A(L), i.e., the subdivision of the plane induced by the lines.
