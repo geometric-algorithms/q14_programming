@@ -1,0 +1,51 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='5000' height='5000'>
+<rect width='100%' height='100%' fill='white'/>
+<path d='M 1500 2879.22 L 2453.21 2443.74 L 1702.5 1500 L 1500 1500 L 1500 2879.22 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 1610.49 3500 L 2499.05 2501.38 L 2473.21 2468.89 L 1500 2955.5 L 1500 3500 L 1610.49 3500 L Z' fill='#FFCCCC' stroke='black' stroke-width='2'/>
+<path d='M 2499.05 2501.38 L 2571.83 2419.59 L 2473.21 2468.89 L 2499.05 2501.38 L Z' fill='#CCFFCC' stroke='black' stroke-width='2'/>
+<path d='M 2453.21 2443.74 L 2616.86 2368.98 L 3390.07 1500 L 1702.5 1500 L 2453.21 2443.74 L Z' fill='#CCCCFF' stroke='black' stroke-width='2'/>
+<path d='M 1658.48 3500 L 2516.64 2523.48 L 2499.05 2501.38 L 1610.49 3500 L 1658.48 3500 L Z' fill='#FFFFCC' stroke='black' stroke-width='2'/>
+<path d='M 2516.64 2523.48 L 2636.24 2387.38 L 2571.83 2419.59 L 2499.05 2501.38 L 2516.64 2523.48 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 2616.86 2368.98 L 2676.26 2341.84 L 3416.06 1500 L 3390.07 1500 L 2616.86 2368.98 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 2516.64 2523.48 L 1658.48 3500 L 3293.41 3500 L 2516.64 2523.48 L Z' fill='#FFCCFF' stroke='black' stroke-width='2'/>
+<path d='M 3267.94 2071.53 L 3500 1965.51 L 3500 1955.5 L 3267.94 2071.53 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 2676.26 2341.84 L 3267.94 2071.53 L 3500 1955.5 L 3500 1500 L 3416.06 1500 L 2676.26 2341.84 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 2453.21 2443.74 L 1500 2879.22 L 1500 2955.5 L 2473.21 2468.89 L 2453.21 2443.74 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 2616.86 2368.98 L 2453.21 2443.74 L 2473.21 2468.89 L 2571.83 2419.59 L 2616.86 2368.98 L Z' fill='#CCFFFF' stroke='black' stroke-width='2'/>
+<path d='M 2676.26 2341.84 L 2616.86 2368.98 L 2571.83 2419.59 L 2636.24 2387.38 L 2676.26 2341.84 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 3267.94 2071.53 L 2676.26 2341.84 L 2636.24 2387.38 L 3267.94 2071.53 L Z' fill='none' stroke='black' stroke-width='2'/>
+<path d='M 3500 1965.51 L 3267.94 2071.53 L 2636.24 2387.38 L 2516.64 2523.48 L 3293.41 3500 L 3500 3500 L 3500 1965.51 L Z' fill='none' stroke='black' stroke-width='2'/>
+<circle cx='1500' cy='1500' r='4' fill='red'/>
+<circle cx='1500' cy='3500' r='4' fill='red'/>
+<circle cx='3500' cy='3500' r='4' fill='red'/>
+<circle cx='3500' cy='1500' r='4' fill='red'/>
+<circle cx='1500' cy='2955.5' r='4' fill='red'/>
+<circle cx='3500' cy='1955.5' r='4' fill='red'/>
+<circle cx='3293.41' cy='3500' r='4' fill='red'/>
+<circle cx='2473.21' cy='2468.89' r='4' fill='red'/>
+<circle cx='2473.21' cy='2468.89' r='4' fill='red'/>
+<circle cx='1702.5' cy='1500' r='4' fill='red'/>
+<circle cx='1610.49' cy='3500' r='4' fill='red'/>
+<circle cx='2499.05' cy='2501.38' r='4' fill='red'/>
+<circle cx='2499.05' cy='2501.38' r='4' fill='red'/>
+<circle cx='2571.83' cy='2419.59' r='4' fill='red'/>
+<circle cx='2571.83' cy='2419.59' r='4' fill='red'/>
+<circle cx='3390.07' cy='1500' r='4' fill='red'/>
+<circle cx='1658.48' cy='3500' r='4' fill='red'/>
+<circle cx='2516.64' cy='2523.48' r='4' fill='red'/>
+<circle cx='2516.64' cy='2523.48' r='4' fill='red'/>
+<circle cx='2636.24' cy='2387.38' r='4' fill='red'/>
+<circle cx='2636.24' cy='2387.38' r='4' fill='red'/>
+<circle cx='3416.06' cy='1500' r='4' fill='red'/>
+<circle cx='1500' cy='2879.22' r='4' fill='red'/>
+<circle cx='2453.21' cy='2443.74' r='4' fill='red'/>
+<circle cx='2453.21' cy='2443.74' r='4' fill='red'/>
+<circle cx='2616.86' cy='2368.98' r='4' fill='red'/>
+<circle cx='2616.86' cy='2368.98' r='4' fill='red'/>
+<circle cx='2676.26' cy='2341.84' r='4' fill='red'/>
+<circle cx='2676.26' cy='2341.84' r='4' fill='red'/>
+<circle cx='3267.94' cy='2071.53' r='4' fill='red'/>
+<circle cx='3267.94' cy='2071.53' r='4' fill='red'/>
+<circle cx='3500' cy='1965.51' r='4' fill='red'/>
+<line x1='1500' y1='3841.23' x2='3500' y2='1158.39' stroke='blue' stroke-width='2' stroke-dasharray='10,5'/>
+</svg>

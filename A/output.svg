@@ -1,0 +1,65 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='5000' height='5000'>
+<rect width='100%' height='100%' fill='white'/>
+<path d='M 2643.27 2358.17 L 2300 1500 L 1500 1500 L 1500 3000 L 2500 2500 L 2643.27 2358.17 L Z' fill='#FFCCCC' stroke='black' stroke-width='2'/>
+<path d='M 2666.67 2416.67 L 2643.27 2358.17 L 2500 2500 L 2666.67 2416.67 L Z' fill='#CCFFCC' stroke='black' stroke-width='2'/>
+<path d='M 1500 3250 L 2327.59 2670.69 L 2500 2500 L 1500 3000 L 1500 3250 L Z' fill='#CCCCFF' stroke='black' stroke-width='2'/>
+<path d='M 2671.88 2429.69 L 2666.67 2416.67 L 2500 2500 L 2327.59 2670.69 L 2671.88 2429.69 L Z' fill='#FFFFCC' stroke='black' stroke-width='2'/>
+<path d='M 2327.59 2670.69 L 1500 3250 L 1500 3490 L 2327.59 2670.69 L Z' fill='#FFCCFF' stroke='black' stroke-width='2'/>
+<path d='M 2800 2750 L 2671.88 2429.69 L 2327.59 2670.69 L 1500 3490 L 1500 3500 L 2800 3500 L 2800 2750 L Z' fill='#CCFFFF' stroke='black' stroke-width='2'/>
+<path d='M 2800 2350 L 2800 2340 L 2750 2375 L 2800 2350 L Z' fill='#E6CCFF' stroke='black' stroke-width='2'/>
+<path d='M 3100 3500 L 2800 2750 L 2800 3500 L 3100 3500 L Z' fill='#FFF0CC' stroke='black' stroke-width='2'/>
+<path d='M 3300 2100 L 3300 1990 L 2800 2340 L 2800 2350 L 3300 2100 L Z' fill='#CCE6FF' stroke='black' stroke-width='2'/>
+<path d='M 3300 1990 L 3300 1708 L 2800 2203 L 2800 2340 L 3300 1990 L Z' fill='#FFD9B3' stroke='black' stroke-width='2'/>
+<path d='M 3300 1708 L 3300 1500 L 2800 1500 L 2800 2203 L 3300 1708 L Z' fill='#E6FFCC' stroke='black' stroke-width='2'/>
+<path d='M 3300 2100 L 3300 3500 L 3500 3500 L 3500 2000 L 3300 2100 L Z' fill='#FFCCE5' stroke='black' stroke-width='2'/>
+<path d='M 3300 1990 L 3300 2100 L 3500 2000 L 3500 1850 L 3300 1990 L Z' fill='#D5CCFF' stroke='black' stroke-width='2'/>
+<path d='M 3300 1708 L 3300 1990 L 3500 1850 L 3500 1510 L 3300 1708 L Z' fill='#CCE5FF' stroke='black' stroke-width='2'/>
+<path d='M 3300 1500 L 3300 1708 L 3500 1510 L 3500 1500 L 3300 1500 L Z' fill='#C2F0C2' stroke='black' stroke-width='2'/>
+<path d='M 2800 2750 L 3100 3500 L 3300 3500 L 3300 2100 L 2800 2350 L 2800 2750 L Z' fill='#F0D9FF' stroke='black' stroke-width='2'/>
+<path d='M 2671.88 2429.69 L 2800 2750 L 2800 2350 L 2750 2375 L 2671.88 2429.69 L Z' fill='#FFFFE0' stroke='black' stroke-width='2'/>
+<path d='M 2666.67 2416.67 L 2671.88 2429.69 L 2750 2375 L 2666.67 2416.67 L Z' fill='#FFE0CC' stroke='black' stroke-width='2'/>
+<path d='M 2643.27 2358.17 L 2666.67 2416.67 L 2750 2375 L 2800 2340 L 2800 2203 L 2643.27 2358.17 L Z' fill='#CCFFEB' stroke='black' stroke-width='2'/>
+<path d='M 2300 1500 L 2643.27 2358.17 L 2800 2203 L 2800 1500 L 2300 1500 L Z' fill='#F5CCFF' stroke='black' stroke-width='2'/>
+<circle cx='1500' cy='1500' r='4' fill='red'/>
+<circle cx='1500' cy='3500' r='4' fill='red'/>
+<circle cx='3500' cy='3500' r='4' fill='red'/>
+<circle cx='3500' cy='1500' r='4' fill='red'/>
+<circle cx='1500' cy='3490' r='4' fill='red'/>
+<circle cx='3500' cy='1510' r='4' fill='red'/>
+<circle cx='1500' cy='3000' r='4' fill='red'/>
+<circle cx='2500' cy='2500' r='4' fill='red'/>
+<circle cx='2500' cy='2500' r='4' fill='red'/>
+<circle cx='3500' cy='2000' r='4' fill='red'/>
+<circle cx='1500' cy='3250' r='4' fill='red'/>
+<circle cx='2327.59' cy='2670.69' r='4' fill='red'/>
+<circle cx='2327.59' cy='2670.69' r='4' fill='red'/>
+<circle cx='2750' cy='2375' r='4' fill='red'/>
+<circle cx='2750' cy='2375' r='4' fill='red'/>
+<circle cx='3500' cy='1850' r='4' fill='red'/>
+<circle cx='2800' cy='3500' r='4' fill='red'/>
+<circle cx='2800' cy='2350' r='4' fill='red'/>
+<circle cx='2800' cy='2350' r='4' fill='red'/>
+<circle cx='2800' cy='2340' r='4' fill='red'/>
+<circle cx='2800' cy='2340' r='4' fill='red'/>
+<circle cx='2800' cy='2203' r='4' fill='red'/>
+<circle cx='2800' cy='2203' r='4' fill='red'/>
+<circle cx='2800' cy='1500' r='4' fill='red'/>
+<circle cx='3300' cy='3500' r='4' fill='red'/>
+<circle cx='3300' cy='2100' r='4' fill='red'/>
+<circle cx='3300' cy='2100' r='4' fill='red'/>
+<circle cx='3300' cy='1990' r='4' fill='red'/>
+<circle cx='3300' cy='1990' r='4' fill='red'/>
+<circle cx='3300' cy='1708' r='4' fill='red'/>
+<circle cx='3300' cy='1708' r='4' fill='red'/>
+<circle cx='3300' cy='1500' r='4' fill='red'/>
+<circle cx='3100' cy='3500' r='4' fill='red'/>
+<circle cx='2800' cy='2750' r='4' fill='red'/>
+<circle cx='2800' cy='2750' r='4' fill='red'/>
+<circle cx='2671.88' cy='2429.69' r='4' fill='red'/>
+<circle cx='2671.88' cy='2429.69' r='4' fill='red'/>
+<circle cx='2666.67' cy='2416.67' r='4' fill='red'/>
+<circle cx='2666.67' cy='2416.67' r='4' fill='red'/>
+<circle cx='2643.27' cy='2358.17' r='4' fill='red'/>
+<circle cx='2643.27' cy='2358.17' r='4' fill='red'/>
+<circle cx='2300' cy='1500' r='4' fill='red'/>
+</svg>
